@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akamht.github.io/oMu/sitemap.oMu.gz
